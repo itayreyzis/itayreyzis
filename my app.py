@@ -1,0 +1,11 @@
+name = input("name please?")
+print("ok")
+last_name = input("what is your last name?")
+print("hi " + name + last_name)
+birth_year = input("enter your birth year please")
+print("were you born in"  + birth_year)
+input("?")
+print("OK")
+input("im in [school, millatery...]")
+print("ok." )
+import app

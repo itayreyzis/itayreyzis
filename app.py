@@ -1,0 +1,6 @@
+name = input("what is your name again?")
+print("welcome! " + name)
+money = input("how much money do you have?")
+print("ok.")
+print("you have " + money)
+print("bye")
